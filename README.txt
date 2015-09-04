@@ -1,5 +1,5 @@
 Chikai Zhang
-id : 644368
+
 
 The python file “RetrievalEngine.py” is the information retrieve engine for project of
 “Building and evaluating an information retrieval engine”
